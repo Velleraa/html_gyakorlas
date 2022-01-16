@@ -15,3 +15,22 @@ a {
 #lime{
     color: lime;
 }
+
+#kepek{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    align-content: space-around;
+    flex-direction: row;
+
+
+}
+
+img {
+    width: 300px;
+    margin: 30px;
+}
+img:hover {
+    width: 400px;
+    margin: 0px;
+}
